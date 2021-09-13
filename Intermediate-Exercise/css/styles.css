@@ -1,0 +1,26 @@
+#wrapper {
+  border: solid black 2px;
+}
+#heading {
+  border-bottom: solid black 15px;
+}
+#h1 {
+  font-size: 4em;
+}
+.line {
+  border-bottom: solid black 3px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.right {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.right1 {
+  width: 50%;
+}
+.right2 {
+  width: 50%;
+}
