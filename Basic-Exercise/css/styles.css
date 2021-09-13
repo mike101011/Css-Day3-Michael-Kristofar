@@ -46,4 +46,5 @@ header {
   transform: rotateZ(180deg);
   transform: rotateY(180deg);
   display: block;
+  display: block;
 }
