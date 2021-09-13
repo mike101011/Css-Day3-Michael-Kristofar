@@ -27,23 +27,3 @@ header {
   padding: 4px;
   font-size: 1.5em;
 }
-#freecode-div {
-  color: white;
-  border: blue solid;
-  background-color: #1f1f1f;
-  border-bottom-right-radius: 75px;
-  border-top-left-radius: 75px;
-  padding: 7px;
-  font-size: 1.5;
-}
-#freecode-camp {
-  color: white;
-  transition: 1s;
-}
-#freecode-camp:hover {
-  color: aqua;
-  transform: rotateX(180deg);
-  transform: rotateZ(180deg);
-  transform: rotateY(180deg);
-  display: block;
-}
