@@ -1,0 +1,29 @@
+#w3-div {
+  background-color: aquamarine;
+  padding: 1%;
+}
+header {
+  text-align: center;
+}
+#w3-link {
+  color: darkblue;
+  transition: 3s;
+}
+#w3-link:hover {
+  color: red;
+  font-size: 1.5em;
+}
+#froggy-div {
+  background-color: darkorange;
+  padding: 1%;
+  margin-top: 0;
+}
+#froggy-link {
+  color: red;
+  transition: 2s;
+}
+#froggy-link:hover {
+  border: black solid;
+  padding: 4px;
+  font-size: 1.5em;
+}
